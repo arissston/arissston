@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arissston
-- 👀 I’m looking for a job as a QA Engineer
-- 🌱 I’m currently learning JS
+- 👀 I’m looking for an interesting project
+- 🌱 I’m currently learning FullstackDevelopment
 - 📫 How to reach me:
    * https://www.linkedin.com/in/arissston/
    * https://facebook.com/arissston
